@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-Hello, my name is Mohamad Romadhon. I am a Fullstack Web Developer with five years of experience. My technology stack involves HTML, CSS, Javascript, Jquery, Bootstrap, PHP, MySQL, Laravel, CakePHP, CI, AngularJS, ReactJS, And Go.
+Hello, my name is Mohamad Romadhon. I am a Fullstack Web Developer with five years of experience. My technology stack involves HTML, CSS, Javascript, Jquery, Bootstrap, PHP, MySQL, Laravel, Express Js, CI, AngularJS, ReactJS.
 
 - 📫 How to reach me: masroma75@gmail.com
 <!-- - 📝 [Resume](https://coziboy.github.io/) -->
